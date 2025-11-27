@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/bioseq-analyzer.git
+bashgit clone https://github.com/abubakar-99/bioseq-analyzer.git
 cd bioseq-analyzer
 
 Create virtual environment:
